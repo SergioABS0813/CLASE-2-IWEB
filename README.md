@@ -14,6 +14,9 @@
         Scanner scanner = new Scanner(System.in);
         String opcionSeleccionada = scanner.nextLine();
 La primera línea solo es necesaria para instanciar la clase Scanner, así que solo se haría una vez. La segunda línea es la que se usará más en caso se requiera de que el usuario coloque más datos.
-## Para pasar de String a Int
+## Convertimos de String a Integer
         int opcion = Integer.parseInt(opcionSeleccionada);
+
+## Convertimos de String a Boolean
+        boolean vacunadobool = Boolean.parseBoolean(vacunadoStr);
         
