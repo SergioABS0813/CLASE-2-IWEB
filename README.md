@@ -8,3 +8,4 @@
 
 ## Creación de objeto
         Albergue albergue = new Albergue();
+
