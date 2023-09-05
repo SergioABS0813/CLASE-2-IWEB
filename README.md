@@ -19,4 +19,5 @@ La primera línea solo es necesaria para instanciar la clase Scanner, así que s
 
 ## Convertimos de String a Boolean
         boolean vacunadobool = Boolean.parseBoolean(vacunadoStr);
+        
 Solo cuando la variable que vamos a convertir sea TRUE o FALSE.
