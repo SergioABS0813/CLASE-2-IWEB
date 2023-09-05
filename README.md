@@ -5,3 +5,6 @@
 
 ## Para imprimir un texto y no quieres el salto de línea automático:
         System.out.print("Bienvenido a mi albergue");
+
+## Creación de objeto
+        Albergue albergue = new Albergue();
