@@ -9,3 +9,10 @@
 ## Creación de objeto
         Albergue albergue = new Albergue();
 ![iweb2](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/83eb0841-b71e-4dd8-819d-837760a6fc59)
+
+## PARA QUE EL USUARIO INGRESE DATOS:
+        Scanner scanner = new Scanner(System.in);
+        String opcionSeleccionada = scanner.nextLine();
+## Para pasar de String a Int
+        int opcion = Integer.parseInt(opcionSeleccionada);
+        
