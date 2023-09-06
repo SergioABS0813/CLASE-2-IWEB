@@ -77,5 +77,6 @@ OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE N
 
 Se puede utilizar esta forma para ir entrando de Afuera HACIA Adentro
 
+## Cómo cambiar el atributo de una clase-atributo? (como cambiar ingrediente de galleta de morita?)
 
-
+![ca](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/eb787641-6163-4020-8349-620ddd147d90)
