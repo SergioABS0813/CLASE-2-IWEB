@@ -21,3 +21,7 @@ La primera línea solo es necesaria para instanciar la clase Scanner, así que s
         boolean vacunadobool = Boolean.parseBoolean(vacunadoStr);
         
 Solo cuando la variable que vamos a convertir sea TRUE o FALSE.
+
+## MODULAMOS EL REGISTRO DE GATO CON UN MÉTODO AÑADIDO AL GATO
+![iweb3](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/705156ba-f240-4e5e-8f5a-482b483d9a66)
+
