@@ -43,3 +43,10 @@ Recordemos que "nombre" es atributo no estático en este ejemplo
         
 Se coloca antes del final de cada programa
 
+## CONSTRUCTOR
+
+Creamos el constructor (sirve para inicializar variables):
+
+
+
+
