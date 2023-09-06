@@ -26,3 +26,4 @@ Solo cuando la variable que vamos a convertir sea TRUE o FALSE.
 
 ![iweb3](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/705156ba-f240-4e5e-8f5a-482b483d9a66)
 
+Esto sirve para no sobrecargar la clase Main
