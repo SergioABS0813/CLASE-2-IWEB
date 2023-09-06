@@ -65,7 +65,7 @@ Si creamos muchos constructores, podría haber sobrecarga de constructores, por 
 
 Luego en el Main pondriamos:
 
-
+![bb](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/199a3622-ac07-420d-8ed6-71eed19f17e6)
 
 OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE NUESTRO PROGRAMA:
 
