@@ -73,7 +73,9 @@ OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE N
 
 ## CLASES COMO ATRIBUTOS
 
+![bb](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/ceaa7509-c4f0-4b3d-8c8e-bedccb278dc1)
 
+Se puede utilizar esta forma para ir entrando de Afuera HACIA Adentro
 
 
 
