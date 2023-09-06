@@ -29,6 +29,6 @@ Solo cuando la variable que vamos a convertir sea TRUE o FALSE.
 Esto sirve para no sobrecargar la clase Main
 
 ## Cambiamos a "this" porque ya estamos en la misma clase
-
+![iweb](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/9b1664ae-afd6-4bf5-9fd1-435bac5def48)
 
 
