@@ -61,7 +61,15 @@ OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE N
 ## CONSTRUCTORES CON MÁS ATRIBUTOS INICIALIZADOS:
 Si creamos muchos constructores, podría haber sobrecarga de constructores, por lo que podemos crear un constructor de más atributos iniciales:
 
+![b](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/1bc5d6d5-c0b7-4e34-9ecd-f38294ebe649)
 
+Luego en el Main pondriamos:
+
+
+
+OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE NUESTRO PROGRAMA:
+
+![CONS](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/734d7aae-b3f8-4c68-8291-f0b178a15490)
 
 
 
