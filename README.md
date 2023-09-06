@@ -38,4 +38,8 @@ Los metodos estáticos pueden acceder solamente a atributos estáticos (static)
 
 Recordemos que "nombre" es atributo no estático en este ejemplo
 
+## Scanner.close()
+        scanner.close();
+        
+Se coloca antes del final de cada programa
 
