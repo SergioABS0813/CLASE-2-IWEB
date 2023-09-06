@@ -53,6 +53,10 @@ Luego en el Main podemos inicializar los atributos de los objetos que creemos:
 
 ![aaa](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/a25b64ef-b723-424d-bf54-73544a8398ba)
 
+OJO: ES IMPORTANTE CREAR EL CONSTRUCTOR SIN PARÁMETROS PARA QUE NO SE MALOGRE NUESTRO PROGRAMA:
+
+
+
 Si creamos muchos constructores, podría haber sobrecarga de constructores, por lo que podemos crear un constructor de más atributos iniciales:
 
 
