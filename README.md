@@ -45,7 +45,11 @@ Se coloca antes del final de cada programa
 
 ## CONSTRUCTOR
 
-Creamos el constructor (sirve para inicializar variables):
+Creamos el constructor en la misma clase (sirve para inicializar variables):
+
+![aa](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/010fb93c-d546-4dad-962b-d2bea7735d73)
+
+Luego en el Main podemos inicializar los atributos de los objetos que creemos:
 
 
 
