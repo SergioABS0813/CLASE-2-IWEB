@@ -36,4 +36,6 @@ Los metodos estáticos pueden acceder solamente a atributos estáticos (static)
 
 ![a](https://github.com/SergioABS0813/CLASE-2-IWEB/assets/134556600/9a9cb3da-7a35-4c8d-a8ed-3744852f3e23)
 
+Recordemos que "nombre" es atributo no estático en este ejemplo
+
 
